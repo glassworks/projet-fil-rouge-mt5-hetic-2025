@@ -33,7 +33,7 @@ La liste de groupes se trouve ici : [https://docs.google.com/spreadsheets/d/1MJZ
 
 ### Rendu écrit
 
-[Cliquez ici pour plus d'information sur les contenus du rapport](./src/rapport.md)
+Consulter le [Guide de rédaction](./src/rapport.md) pour plus d'informations sur le rapport.
 
 Le tableau suivant detaille les attentes par rapport au titre RNCP :
 

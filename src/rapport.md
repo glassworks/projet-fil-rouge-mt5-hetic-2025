@@ -58,7 +58,7 @@ Eloboration plus complète du problème avec des chiffres/statistiques et argume
   - N'oubliez pas que votre concurrence est parfois « je fais à la main », ou « en Excel »
 
 {% hint style="info" %}
-** Sous chapitre : votre méthodologie de veille **
+**Sous chapitre : votre méthodologie de veille**
 Pour répondre à la question ci-dessus, nous attendons de vous que vous présentiez votre méthode et les outils utilisés pour faire la veille (à noter: pour étudier la concerruence, ainsi que faire votre choix de technologie poyur la solution) :
 
 Elaborer un dispositif de veille intégrant la détection et l’analyse des innovations technologiques, des approches, méthodologies et outils du secteur ainsi que les usages sur le marché français et international en :
