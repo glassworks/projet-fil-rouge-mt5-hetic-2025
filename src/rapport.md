@@ -196,7 +196,7 @@ Décrivez votre solution preuve de concept finale, avec des captures d'écran de
   - performance
   - gestion des pics de demande
   - etc.
-- Fournir un aperçu des risques opérationnels liés au fonctionnement quotidien de votre plateforme et des stratégies visant à minimiser ces risques.
+- Fournissez un aperçu des risques opérationnels liés au fonctionnement quotidien de votre plateforme et des stratégies visant à minimiser ces risques.
 
 
 ## Rétrospective
