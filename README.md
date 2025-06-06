@@ -33,6 +33,8 @@ La liste de groupes se trouve ici : [https://docs.google.com/spreadsheets/d/1MJZ
 
 ### Rendu écrit
 
+[Cliquez ici pour plus d'information sur les contenus du rapport](./src/rapport.md)
+
 Le tableau suivant detaille les attentes par rapport au titre RNCP :
 
 * en vert : à l'écrit, à rendre fin juillet (Brontis va en parler plus tard dans le programme),
@@ -40,6 +42,12 @@ Le tableau suivant detaille les attentes par rapport au titre RNCP :
 * en rouge : oraux finaux et code-review du projet fil rouge
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
 
 ### L'affiche technique (poster)
 
